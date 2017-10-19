@@ -1,0 +1,26 @@
+body {
+ font-family: "Times New Roman", Times, serif;
+ color: #ffcce0;
+ padding: 100px;
+}
+
+h1 {
+  color: #ffffff;
+  background-color: #08d85b;
+}
+
+.pink {
+  color: #ffffff;
+  background-color: #ffbfda;
+}
+
+.white {
+  color: #bfbfbf;
+  background-color: #ffffff;
+}
+
+.magical_box {
+  border: 2px solid #665544;
+  padding: inherit;
+  background-color: #efefef;
+}
